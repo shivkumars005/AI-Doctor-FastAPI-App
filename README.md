@@ -1,6 +1,6 @@
 # 📊 AI-Doctor: Medical Assistant
 
-A medical chatbot that takes an **image** and **text query**, processes them using **GROQ LLMs**, and responds with a diagnosis-like text and **text** reply.
+A medical chatbot that takes an **image** and **text query**, processes them using **GROQ LLMs**, and responds with a diagnosis-like text reply.
 
 ---
 
@@ -15,11 +15,15 @@ A medical chatbot that takes an **image** and **text query**, processes them usi
 
 ---
 
+## 🌐 Deployed [here](https://ai-doctor-fastapi-app.onrender.com/)
+
+---
+
 ## 💠 Setup
 
 ```bash
-git clone https://github.com/shivkumars005/AI-Doctor-FastAPI
-cd AI-Doctor-FastAPI
+git clone https://github.com/shivkumars005/AI-Doctor-FastAPI-App
+cd AI-Doctor-FastAPI-App
 pip install -r requirements.txt
 ```
 
@@ -67,3 +71,11 @@ Then visit: `http://localhost:7860`
 ## 📃 License
 
 MIT License
+
+---
+
+## 🙋‍♂️Connect
+
+[LinkedIn](https://www.linkedin.com/in/shivakumarsouta)
+[Portfolio](https://shivakumarsouta-portfolio.vercel.app/)
+[Mail me](shivakumarsouta18@gmail.com)
